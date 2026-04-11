@@ -1,0 +1,6 @@
+//5 4 3 2 1
+//Which recursive pseudocode prints this output?
+#include<stdio.h>
+int main(){
+    
+}
