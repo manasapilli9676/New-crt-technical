@@ -9,7 +9,9 @@ int main(){
     }
     else{
         number++;
+        
     }
+
  }
  printf("alphabets%d\n",alpha);
  printf("numbers%d\n",number);
